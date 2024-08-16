@@ -7,7 +7,9 @@
 </p>
 <p align="center">
 
-Welcome to the **Adversarial Attacks & Robustness** repository! This project focuses on training a Convolutional Neural Network (CNN) using the CIFAR-10 dataset and evaluating its robustness against various adversarial attacks.
+Welcome to the **Adversarial Attacks & Robustness** repository! This project focuses on training a CNN using the CIFAR-10 dataset and evaluating its robustness against a spectrum of adversarial attacks. It covers both basic attacks like targeted and untargeted FGSM, as well as more sophisticated threats such as PGD attacks.
+
+---
 
 ## 📂 Project Overview
 
