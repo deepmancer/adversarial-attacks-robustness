@@ -1,5 +1,12 @@
 # 🔒 Adversarial Attacks & Robustness
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+</p>
+<p align="center">
+
 Welcome to the **Adversarial Attacks & Robustness** repository! This project focuses on training a Convolutional Neural Network (CNN) using the CIFAR-10 dataset and evaluating its robustness against various adversarial attacks.
 
 ## 📂 Project Overview
